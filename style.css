@@ -1,0 +1,32 @@
+h1{
+    color:brown
+}
+*{
+    border:solid
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-start;
+
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #808080;
+}
+.box{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.group{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
